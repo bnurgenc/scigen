@@ -795,10 +795,9 @@ SCI_EXPENSIVE	flimsy
 SCI_EXPENSIVE	fragile
 
 SCI_GROWTH_ADV	linearly
-SCI_GROWTH_ADV	quadratically
 SCI_GROWTH_ADV	sublinearly
 SCI_GROWTH_ADV	inversely
-SCI_GROWTH_ADV	logarithmically
+SCI_GROWTH_ADV	increasingly
 SCI_GROWTH_ADV	exponentially
 
 RELWORK_FILLER LIT_CONCLUSION, comparisons to this work are SCI_FAIR.
@@ -851,8 +850,8 @@ RELWORK_CONCL RELWORK_MID_X RELWORK_XXX
 #}
 
 EVAL_SEC_LATEX_HEADER		\section{EVAL_SEC_HEADER_T}
-EVAL_SEC_HEADER_T		Evaluation and Performance Results
-EVAL_SEC_HEADER_T		Performance Results
+EVAL_SEC_HEADER_T		Evaluation and Findings
+EVAL_SEC_HEADER_T		Findings
 EVAL_SEC_HEADER_T+5		Evaluation
 EVAL_SEC_HEADER_T		Experimental Evaluation
 EVAL_SEC_HEADER_T		Experimental Evaluation and Analysis
@@ -892,8 +891,8 @@ SCI_EVAL {
 
 }
 
-EVAL_SEC_SUBHEAD_1	Hardware and Software Configuration
-EVAL_SEC_SUBEHAD_1	System Setup
+EVAL_SEC_SUBHEAD_1	Mindset
+EVAL_SEC_SUBEHAD_1	State of Mind
 EVAL_SEC_SUBEHAD_1	Experimental Setup
 
 EVAL_SEC_SUBHEAD_1_LTX	\subsection{EVAL_SEC_SUBHEAD_1}
@@ -942,7 +941,7 @@ MATTERS		matters
 MATTERS		might cause us to lose sleep
 
 CONSTRAINT_TYPE		performance
-CONSTRAINT_TYPE		security
+CONSTRAINT_TYPE		common use
 CONSTRAINT_TYPE		usability
 CONSTRAINT_TYPE		scalability
 CONSTRAINT_TYPE		complexity
@@ -1047,7 +1046,7 @@ AMBITIOUS		novel
 AMBITIOUS		experimental
 AMBITIOUS		unstable
 AMBITIOUS		complex
-AMBITIOUS		overengineered
+AMBITIOUS		overthought
 
 DIFFICULT_X		difficult
 DIFFICULT_X		arduous
@@ -1055,14 +1054,14 @@ DIFFICULT_X		onerous
 
 DIFFICULT		DIFFICULT_X
 DIFFICULT		as DIFFICULT_X as EVAL_MODING
-DIFFICULT		more DIFFICULT_X than with previous systems
+DIFFICULT		more DIFFICULT_X than with previous models
 
 EVAL_MODING_HARDWARE	MULTIPLE_VERBING the HARDWARE_PROP_OR_MEASUREMENT of EVAL_SYSTEM
 EVAL_MODING_SOFTWARE	HACK_VERBING the SOFTWARE_PROP_OR_MEASUREMENT of our SOFTWARE_SYSTEM
 
-SOFTWARE_SYSTEM		operating system
-SOFTWARE_SYSTEM		distributed system
-SOFTWARE_SYSTEM		mesh network
+SOFTWARE_SYSTEM		general intelligence
+SOFTWARE_SYSTEM		neurological entanglement
+SOFTWARE_SYSTEM		neural network
 SOFTWARE_SYSTEM		SCI_THING
 
 EVALUATING		evaluating
