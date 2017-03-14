@@ -1082,7 +1082,7 @@ HACK_VERBING		instrumenting
 HACK_VERBING		interposing on
 HACK_VERBING		monitoring
 
-HACKED			hacked
+HACKED			automated
 HACKED			patched
 HACKED			refactored
 HACKED			reprogrammed
@@ -1144,21 +1144,21 @@ NETWORK_TYPE	Internet
 NETWORK_TYPE	Internet-2
 NETWORK_TYPE	Planetlab
 NETWORK_TYPE	sensor-net
-NETWORK_TYPE	NETWORK_TYPE_N-node
-NETWORK_TYPE	NETWORK_TYPE_N-node
-NETWORK_TYPE	NETWORK_TYPE_N-node
+NETWORK_TYPE	cloud
+NETWORK_TYPE	post-Internet
+NETWORK_TYPE	ever connected
 NETWORK_TYPE	planetary-scale
 NETWORK_TYPE	underwater
 NETWORK_TYPE	millenium
 
 EXP_ADJ		SCI_BUZZWORD_ADJ
 EXP_ADJ		real-time
-EXP_ADJ		packet-level
+EXP_ADJ		building block-level
 EXP_ADJ		quantized
 EXP_ADJ		real-world
 EXP_ADJ		ad-hoc
-EXP_ADJ		software
-EXP_ADJ		hardware
+EXP_ADJ		algorithmic
+EXP_ADJ		sub-atomic
 EXP_TYPE	EXP_ADJ EXP_TYPE_UM
 EXP_TYPE	EXP_TYPE_UM
 EXP_TYPE_UM	simulation
@@ -1171,27 +1171,14 @@ EXP_WHERE_UM	testbed
 EXP_WHERE_UM	overlay network
 
 # common places to run experiments
-EXP_WHERE_CMN	desktop machines
-EXP_WHERE_CMN	mobile telephones
+EXP_WHERE_CMN	desktop computers
+EXP_WHERE_CMN	smartphones
 EXP_WHERE_CMN	system
-EXP_WHERE_CMN	network
+EXP_WHERE_CMN	cloud
 EXP_WHERE_CMN+4	EXP_WHERE_ADJ EXP_WHERE_UM
 
 # rare places
-OLD_MACHINE	Macintosh SE
-OLD_MACHINE	UNIVAC
-OLD_MACHINE	Apple ][e
-OLD_MACHINE	IBM PC Junior
-OLD_MACHINE	Atari 2600
-OLD_MACHINE	Nintendo Gameboy
-OLD_MACHINE	Motorola bag telephone
-OLD_MACHINE	Apple Newton
-OLD_MACHINE	Commodore 64
-OLD_MACHINE	NeXT Workstation
-OLD_MACHINE	LISP machine
-OLD_MACHINE	PDP 11
-EXP_WHERE_RARE	decommissioned OLD_MACHINEs
-EXP_WHERE_RARE	XBox network
+EXP_WHERE_RARE	human cortex
 EXP_WHERE_RARE	human test subjects
 
 EXP_WHERE	EXP_WHERE_RARE
@@ -1203,11 +1190,11 @@ EXP_WHERE_ADJ	NETWORK_TYPE
 EXP_WHOSE	MIT's
 EXP_WHOSE	UC Berkeley's
 EXP_WHOSE	CERN's
-EXP_WHOSE	DARPA's
+EXP_WHOSE	NASA's
 EXP_WHOSE	the NSA's
-EXP_WHOSE	the KGB's
+EXP_WHOSE	Cambridge's
 EXP_WHOSE+5	our
-EXP_WHOSE	Intel's
+EXP_WHOSE	Oxford's
 
 EXP	EXP_TYPE on EXP_WHOSE EXP_WHERE
 
@@ -1230,12 +1217,12 @@ EVAL_HARDWARE_INTRO EVAL_ACTION EVAL_MOD_XXX LIT_FIRST EVAL_MOD EVAL_MOD_XXX LIT
 }
 
 
-EVAL_HARDWARE_INTRO	many hardware modifications were REQUIRED to measure SCI_OUR_SYSTEM.
-EVAL_HARDWARE_INTRO	our detailed EVALUATION REQUIRED many hardware modifications.
-EVAL_HARDWARE_INTRO	we modified our standard hardware as follows:
-EVAL_HARDWARE_INTRO	a well-tuned network setup holds the key to a useful EVALUATION.
+EVAL_HARDWARE_INTRO	many software modifications were REQUIRED to measure SCI_OUR_SYSTEM.
+EVAL_HARDWARE_INTRO	our detailed EVALUATION REQUIRED many software modifications.
+EVAL_HARDWARE_INTRO	we modified our standard equipment as follows:
+EVAL_HARDWARE_INTRO	a well-tuned neural network setup holds the key to a useful EVALUATION.
 EVAL_HARDWARE_INTRO	though many elide important experimental details, we provide them here in gory detail.
-EVAL_HARDWARE_INTRO	one must understand our network configuration to grasp the genesis of our results.
+EVAL_HARDWARE_INTRO	one must understand the configuration of our whole brain emulation to grasp the genesis of our results.
 
 REQUIRED	mandated
 REQUIRED	required
@@ -1260,7 +1247,6 @@ EVAL_SEC_FILLER	This configuration step was time-consuming but worth it in the e
 EVAL_SEC_FILLER	Configurations without this modification showed DIFFERENT EVAL_MEASUREMENT
 EVAL_SEC_FILLER	With this change, we noted DIFFERENT PERFORMANCE IMPROVEMENT
 EVAL_SEC_FILLER	This step flies in the face of conventional wisdom, but is INSTRUMENTAL to our results
-EVAL_SEC_FILLER	To find the required HARDWARE_ITEMS, we combed eBay and tag sales
 EVAL_SEC_FILLER	we struggled to amass the necessary HARDWARE_ITEMS
 EVAL_SEC_FILLER	the HARDWARE_ITEMS described here explain our UNIQUE results
 EVAL_SEC_FILLER	note that only experiments on our EXP_WHERE (and not on our EXP_WHERE) followed this pattern
@@ -1285,13 +1271,13 @@ EMULATING_THEM	simulating them in WARE
 EMULATING_THEM	emulating them in WARE
 EMULATING_THEM	deploying them in THE_WILD
 
-WARE		software
-WARE		hardware
-WARE		courseware
-WARE		bioware
-WARE		middleware
+WARE		software simulation
+WARE		virtual environment
+WARE		bio-engineered cortex
+WARE		bioware technology
+WARE		quantum computer
 
-THE_WILD	the wild
+THE_WILD	a controlled spatio-temporal environment
 THE_WILD	a laboratory setting
 THE_WILD	a controlled environment
 THE_WILD	a chaotic spatio-temporal environment
