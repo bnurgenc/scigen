@@ -1277,7 +1277,7 @@ WARE		bio-engineered cortex
 WARE		bioware technology
 WARE		quantum computer
 
-THE_WILD	a controlled spatio-temporal environment
+THE_WILD	a controlled medical environment
 THE_WILD	a laboratory setting
 THE_WILD	a controlled environment
 THE_WILD	a chaotic spatio-temporal environment
@@ -1336,9 +1336,6 @@ EVAL_MOD_OBJECT EXP_WHOSE EXP_WHERE
 # this doesn't appear to be working well
 #EVAL_MOD_OBJECT SCI_BUZZWORD_NOUN
 
-EVAL_MOD_UNITS	MB
-EVAL_MOD_UNITS	GB
-EVAL_MOD_UNITS	kb
 EVAL_MOD_UNITS	Hz
 EVAL_MOD_UNITS	GHz
 
@@ -1356,9 +1353,9 @@ EVAL_MOD_N	150
 EVAL_MOD_AMOUNT	more
 EVAL_MOD_AMOUNT	some
 
-EVAL_MOD_HARDWARE	hard drive space
+EVAL_MOD_HARDWARE	memory cells
 EVAL_MOD_HARDWARE	memory
-EVAL_MOD_HARDWARE	network bandwidth
+EVAL_MOD_HARDWARE	cortical implant
 
 EVAL_MOD_PROPERTY	throughput
 EVAL_MOD_PROPERTY	SCI_MATH_ADJ throughput
@@ -1494,12 +1491,11 @@ EVAL_SEC_SOFTWARE_MOD	we implemented our SCI_THING_S server in LANGUAGE, augment
 
 LINKER_SUFFIX		linked against SCI_BUZZWORD_ADJ libraries for SCI_VERBING SCI_THING_MOD
 LINKER_SUFFIX		with the help of SCI_SOURCE's libraries for SCI_MATH_ADV SCI_VERBING EVAL_ITEMS
-LINKER_SUFFIX		built on SCI_SOURCE's toolkit for SCI_MATH_ADV SCI_VERBING EVAL_ITEMS
-LINKER_SUFFIX		built on the SCI_COUNTRY toolkit for SCI_MATH_ADV SCI_VERBING EVAL_ITEMS
+LINKER_SUFFIX		put together with the SCI_SOURCE's development for SCI_MATH_ADV SCI_VERBING EVAL_ITEMS
+LINKER_SUFFIX		founded on the SCI_COUNTRY findings for SCI_MATH_ADV SCI_VERBING EVAL_ITEMS
 
-EVAL_SEC_SOFTWARE_END	we made all of our software is available under a LICENSE_TYPE license.
 EVAL_SEC_SOFTWARE_END	we note that other researchers have tried and failed to enable this functionality.
-EVAL_SEC_SOFTWARE_END	this concludes our discussion of software modifications.
+EVAL_SEC_SOFTWARE_END	this concludes our discussion of frontal cortex modifications.
 EVAL_SEC_SOFTWARE_END	all of these techniques are of interesting historical significance; SCI_SOURCE and SCI_SOURCE investigated a SIMILAR SETUP in SCI_YEAR.
 
 SIMILAR	related
@@ -1511,15 +1507,6 @@ SETUP	setup
 SETUP	configuration
 SETUP	system
 SETUP	heuristic
-
-LICENSE_TYPE		copy-once, run-nowhere
-LICENSE_TYPE		GPL Version 2
-LICENSE_TYPE		draconian
-LICENSE_TYPE		very restrictive
-LICENSE_TYPE		Microsoft-style
-LICENSE_TYPE		open source
-LICENSE_TYPE		CITE_INST
-LICENSE_TYPE		write-only
 
 LANGUAGE_UM		Perl
 LANGUAGE_UM		C
