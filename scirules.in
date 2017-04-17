@@ -1392,16 +1392,16 @@ STORAGE_ITEM		STORAGE_TYPE
 EXPANSION_ITEMS		EXPANSION_ITEMs
 STORAGE_ITEMS		STORAGE_ITEMs
 
-EXPANSION_ITEM		joystick
-EXPANSION_ITEM		2400 baud modem
-EXPANSION_ITEM		SoundBlaster 8-bit sound card
+EXPANSION_ITEM		neurostimulator
+EXPANSION_ITEM		cranial fixation device
+EXPANSION_ITEM		navigation system
 EXPANSION_ITEM		Knesis keyboard
 EXPANSION_ITEM		power strip
-EXPANSION_ITEM		Ethernet card
-EXPANSION_ITEM		tulip card
-EXPANSION_ITEM		laser label printer
-EXPANSION_ITEM		dot-matrix printer
-EXPANSION_ITEM		5.25" floppy drive
+EXPANSION_ITEM		implant adapter
+EXPANSION_ITEM		two-point discriminator
+EXPANSION_ITEM		plantar stimulator
+EXPANSION_ITEM		wartenberg pinwheel
+EXPANSION_ITEM		MRI-guided laser ablator
 
 
 BANDWIDTH_AMOUNT	EVAL_MOD_NMB/s
@@ -1410,9 +1410,9 @@ BANDWIDTH_AMOUNT	EVAL_MOD_NGB/s
 BANDWIDTH_AMOUNT	EVAL_MOD_NGb/s
 
 NETWORK_BANDWIDTH	BANDWIDTH_AMOUNT of BANDWIDTH_TYPE
-BANDWIDTH_TYPE		Ethernet access
-BANDWIDTH_TYPE		Wi-Fi throughput
-BANDWIDTH_TYPE		Internet access
+BANDWIDTH_TYPE		pseudo- telepathy
+BANDWIDTH_TYPE		Brainwaves
+BANDWIDTH_TYPE		cortical implant access
 
 MEMORY			EVAL_MOD_NMB of MEMORY_TYPE
 MEMORY			EVAL_MOD_AMOUNT MEMORY_TYPE
@@ -1432,16 +1432,16 @@ STORAGE_SIZE		EVAL_MOD_NGB
 STORAGE_SIZE		EVAL_MOD_N-petabyte
 STORAGE_SIZE		EVAL_MOD_NTB
 
-STORAGE_TYPE		hard disk
-STORAGE_TYPE		optical drive
-STORAGE_TYPE		floppy disk
-STORAGE_TYPE		tape drive
-STORAGE_TYPE		USB key
+STORAGE_TYPE		nondeclarative memory
+STORAGE_TYPE		declarative memory
+STORAGE_TYPE		temporal lobe
+STORAGE_TYPE		parietal lobe
+STORAGE_TYPE		occipital lobe
 
-MEMORY_TYPE		RAM
-MEMORY_TYPE		ROM
-MEMORY_TYPE		flash-memory
-MEMORY_TYPE		NV-RAM
+MEMORY_TYPE		neocortex
+MEMORY_TYPE		thalamus
+MEMORY_TYPE		hypothalamus
+MEMORY_TYPE		hippocampus
 
 CHIP_SPEED		EVAL_MOD_NGHz
 CHIP_SPEED		EVAL_MOD_NMHz
@@ -1450,17 +1450,8 @@ PROCESSOR		EVAL_MOD_AMOUNT PROCESSOR_TYPEs
 PROCESSOR		EVAL_MOD_N PROCESSOR_TYPEs
 PROCESSOR_TYPE		CPU
 PROCESSOR_TYPE		FPU
-PROCESSOR_TYPE		RISC processor
-PROCESSOR_TYPE		CISC processor
-PROCESSOR_TYPE		CHIP_SPEED Athlon ATHLON_TYPE
-PROCESSOR_TYPE		CHIP_SPEED Pentium PENTIUM_TYPE
-PROCESSOR_TYPE		CHIP_SPEED Intel 386
-PENTIUM_TYPE		IV
-PENTIUM_TYPE		III
-PENTIUM_TYPE		Centrino
-PENTIUM_TYPE		II
-ATHLON_TYPE		XP
-ATHLON_TYPE		64
+PROCESSOR_TYPE		cortical processor
+PROCESSOR_TYPE		neuronal bio-processor
 
 HARDWARE_PROP_OR_MEASUREMENT		HARDWARE_PROP
 HARDWARE_PROP_OR_MEASUREMENT		effective HARDWARE_PROP
@@ -1484,10 +1475,10 @@ EVAL_SEC_SOFTWARE_REST	EVAL_SEC_SOFTWARE_END
 EVAL_SEC_SOFTWARE_REST  LIT_MIDDLE_3 EVAL_SEC_SOFTWARE_MOD XXX EVAL_SEC_SOFTWARE_END
 
 EVAL_SEC_SOFTWARE_MOD	EVAL_WHO added support for SCI_OUR_SYSTEM as a KERNEL_MODULE
-EVAL_SEC_SOFTWARE_MOD	all software components were COMPILED using TOOLCHAIN LINKER_SUFFIX
-EVAL_SEC_SOFTWARE_MOD	all software was COMPILED using TOOLCHAIN LINKER_SUFFIX
-EVAL_SEC_SOFTWARE_MOD   our experiments soon proved that HACK_VERBING our EVAL_ITEMS_P was more effective than HACK_VERBING them, as previous work suggested
-EVAL_SEC_SOFTWARE_MOD	we implemented our SCI_THING_S server in LANGUAGE, augmented with SCI_MATH_ADV SCI_MATH_ADJ extensions
+EVAL_SEC_SOFTWARE_MOD	all bioware components were COMPILED using TOOLCHAIN LINKER_SUFFIX
+EVAL_SEC_SOFTWARE_MOD	all bioware was COMPILED using TOOLCHAIN LINKER_SUFFIX
+EVAL_SEC_SOFTWARE_MOD our experiments soon proved that HACK_VERBING our EVAL_ITEMS_P was more effective than HACK_VERBING them, as previous work suggested
+EVAL_SEC_SOFTWARE_MOD	we implemented our SCI_THING_S platform in LANGUAGE, augmented with SCI_MATH_ADV SCI_MATH_ADJ extensions
 
 LINKER_SUFFIX		linked against SCI_BUZZWORD_ADJ libraries for SCI_VERBING SCI_THING_MOD
 LINKER_SUFFIX		with the help of SCI_SOURCE's libraries for SCI_MATH_ADV SCI_VERBING EVAL_ITEMS
@@ -1495,7 +1486,7 @@ LINKER_SUFFIX		put together with the SCI_SOURCE's development for SCI_MATH_ADV S
 LINKER_SUFFIX		founded on the SCI_COUNTRY findings for SCI_MATH_ADV SCI_VERBING EVAL_ITEMS
 
 EVAL_SEC_SOFTWARE_END	we note that other researchers have tried and failed to enable this functionality.
-EVAL_SEC_SOFTWARE_END	this concludes our discussion of frontal cortex modifications.
+EVAL_SEC_SOFTWARE_END	this concludes our discussion of cortical modifications.
 EVAL_SEC_SOFTWARE_END	all of these techniques are of interesting historical significance; SCI_SOURCE and SCI_SOURCE investigated a SIMILAR SETUP in SCI_YEAR.
 
 SIMILAR	related
@@ -1508,29 +1499,16 @@ SETUP	configuration
 SETUP	system
 SETUP	heuristic
 
-LANGUAGE_UM		Perl
-LANGUAGE_UM		C
-LANGUAGE_UM		B
-LANGUAGE_UM		C++
-LANGUAGE_UM		Python
-LANGUAGE_UM		Lisp
-LANGUAGE_UM		Scheme
-LANGUAGE_UM		Smalltalk
-LANGUAGE_UM		Ruby
-LANGUAGE_UM		x86 assembly
-LANGUAGE_UM		Dylan
-LANGUAGE_UM		Java
-LANGUAGE_UM		SQL
-LANGUAGE_UM		Fortran
-LANGUAGE_UM		PHP
-LANGUAGE_UM		Prolog
-LANGUAGE_UM		ML
-LANGUAGE_UM		Simula-67
+LANGUAGE_UM		simulation
+LANGUAGE_UM		interrelated communication
+LANGUAGE_UM		transmitter
+LANGUAGE_UM		decoder
+LANGUAGE_UM		translation
 
 LANGUAGE_MOD		enhanced
 LANGUAGE_MOD		embedded
-LANGUAGE_MOD		JIT-compiled
-LANGUAGE_MOD		ANSI
+LANGUAGE_MOD		compiled
+LANGUAGE_MOD		connected
 
 LANGUAGE+2		LANGUAGE_UM
 LANGUAGE		LANGUAGE_MOD LANGUAGE_UM
@@ -1567,9 +1545,9 @@ COMPILED		linked
 COMPILED		hand assembled
 
 TOOLCHAIN		GCC VERSION
-TOOLCHAIN		AT\&T System V's compiler
+TOOLCHAIN		toolchain
 TOOLCHAIN		a standard toolchain
-TOOLCHAIN		Microsoft developer's studio
+TOOLCHAIN		Markov chain
 
 
 LINKED			dynamically-linked
