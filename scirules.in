@@ -1553,10 +1553,10 @@ TOOLCHAIN		Markov chain
 LINKED			dynamically-linked
 LINKED			statically-linked
 
-EVAL_SEC_SOFTWARE_INTRO	SYSNAME does not run on a commodity operating system but instead requires a SCI_MATH_ADV HACKED version of OSFULL
-EVAL_SEC_SOFTWARE_INTRO	SYSNAME runs on HACKED standard software
-EVAL_SEC_SOFTWARE_INTRO	We ran SCI_OUR_SYSTEM on commodity operating systems, such as OSFULL and OSFULL
-EVAL_SEC_SOFTWARE_INTRO	Building a sufficient software environment took time, but was well worth it in the end
+EVAL_SEC_SOFTWARE_INTRO	SYSNAME does not contain a sufficient an environment for whole brain simulation but instead requires a SCI_MATH_ADV HACKED version of OSFULL
+EVAL_SEC_SOFTWARE_INTRO	SYSNAME runs on HACKED standard neural links
+EVAL_SEC_SOFTWARE_INTRO	We introduced SCI_OUR_SYSTEM into neural networks, such as OSFULL and OSFULL
+EVAL_SEC_SOFTWARE_INTRO	Building a sufficient simulation environment took time, but was well worth it in the end
 EVAL_SEC_SOFTWARE_INTRO	When SCI_SOURCE HACKED OSFULL's SOFTWARE_PROP in SCI_YEAR, he could not have anticipated the impact; our work here FOLLOWS_SUIT
 
 
@@ -1564,38 +1564,29 @@ FOLLOWS_SUIT 	attempts to follow on
 FOLLOWS_SUIT 	follows suit
 FOLLOWS_SUIT 	inherits from this previous work
 
-OSNAME		GNU/Debian Linux 
+OSNAME		Sense Net 
 OSNAME		FreeBSD
 OSNAME		NetBSD
 OSNAME		OpenBSD
-OSNAME		TinyOS
+OSNAME		Gist Pro
 OSNAME		Multics
 OSNAME		Coyotos
 OSNAME		KeyKOS
-OSNAME		ErOS
+OSNAME		Kellion OX
 OSNAME		LeOS
 OSNAME		EthOS
-OSNAME		MacOS X
-OSNAME		Microsoft DOS
-OSNAME		DOS
+OSNAME		Lumos X
+OSNAME		Aurora TS
+OSNAME		Nopak 4
 OSNAME		Ultrix
 OSNAME		Minix
 OSNAME		Mach
 OSNAME		GNU/Hurd
 OSNAME		L4
 OSNAME		Amoeba
-OSNAME		Sprite
-OSNAME		AT\&T System V
-OSNAME+4	Microsoft Windows WINVERS
 
-WINVERS		XP
-WINVERS		3.11
-WINVERS		2000
-WINVERS		98
-WINVERS		NT
-WINVERS		for Workgroups
-WINVERS		Longhorn
-WINVERS		1969
+WINVERS		XR
+WINVERS		5.12
 
 OSFULL		OSNAME Version VERSION
 OSFULL		OSNAME
@@ -1609,7 +1600,7 @@ VERSION_BASE	DIGITABCD
 VERSION_BASE	DIGIT.DIGIT
 VERSION_BASE	DIGIT.DIGIT.DIGIT
 VERSION		VERSION_BASE
-VERSION		VERSION_BASE, Service Pack DIGIT
+VERSION		VERSION_BASE, SP DIGIT
 
 EVAL_GUTS {
 
