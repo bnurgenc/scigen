@@ -1631,10 +1631,10 @@ EVAL_GUTS_ANALYSIS_1 EVAL_GUTS_ANALYSIS_1_A XXX EVAL_GUTS_ANALYSIS
 EVAL_GUTS_ANALYSIS  EVAL_ANALYZE_ONE XXX LIT_MIDDLE_TWO EVAL_ANALYZE_ONE XXX LIT_MIDDLE_3 EVAL_ANALYZE_ONE XXX
 
 EVAL_ANALYZE_ONE note the heavy tail on the CDF in EXP_FIG, exhibiting DIFFERENT EVAL_MEASUREMENT
-EVAL_ANALYZE_ONE the many discontinuities in the graphs point to DIFFERENT EVAL_MEASUREMENT introduced with our hardware upgrades
-EVAL_ANALYZE_ONE bugs in our system caused the unstable behavior throughout the experiments
+EVAL_ANALYZE_ONE the many discontinuities in the graphs point to DIFFERENT EVAL_MEASUREMENT introduced with the cortical implant updates
+EVAL_ANALYZE_ONE instabilities in the neural network caused the unstable behavior throughout the experiments
 EVAL_ANALYZE_ONE Gaussian electromagnetic disturbances in our EXP_WHERE caused unstable experimental results
-EVAL_ANALYZE_ONE operator error alone cannot account for these results
+EVAL_ANALYZE_ONE irregularities in the left anterior insula alone cannot account for these results
 EVAL_ANALYZE_ONE these EVAL_MEASUREMENT observations contrast to those seen in earlier work CITATION, such as SCI_SOURCE's seminal treatise on SCI_THING_P and observed HARDWARE_PROP_OR_MEASUREMENT
 EVAL_ANALYZE_ONE note how EMULATING SCI_THING_P rather than EMULATING_THEM produce SMOOTHER, more reproducible results
 EVAL_ANALYZE_ONE the results come from only DIGIT trial runs, and were not reproducible
@@ -1697,7 +1697,7 @@ WHICH_EXPERIMENTS	experiments (1) and (4) enumerated above
 WHICH_EXPERIMENTS	all four experiments
 
 
-EVAL_GUTS_INTRO	our hardware and software modficiations PROVE_THAT EMULATING SCI_OUR_SYSTEM is one thing, but EMULATING_IT is a completely different story.
+EVAL_GUTS_INTRO	our bilogical and algorithmic modficiations PROVE_THAT EMULATING SCI_OUR_SYSTEM is one thing, but EMULATING_IT is a completely different story.
 EVAL_GUTS_INTRO we have taken great pains to describe out EVALUATION setup; now, the payoff, is to discuss our results.
 EVAL_GUTS_INTRO given these trivial configurations, we achieved non-trivial results.
 EVAL_GUTS_INTRO is it possible to justify the great pains we took in our implementation? SCI_RESPONSE.
@@ -1710,13 +1710,13 @@ EVAL_GUTS_EXP_SET_FOLLOWON	we discarded the results of some earlier experiments,
 EVAL_GUTS_EXP_SET_FOLLOWON	all of these experiments completed without RESOURCE_STARVATION or RESOURCE_STARVATION XXX
 
 RESOURCE_STARVATION	resource starvation
-RESOURCE_STARVATION	LAN congestion
-RESOURCE_STARVATION	access-link congestion
-RESOURCE_STARVATION	WAN congestion
-RESOURCE_STARVATION	the black smoke that results from hardware failure
-RESOURCE_STARVATION	paging 
+RESOURCE_STARVATION	organ falure
+RESOURCE_STARVATION	burnout syndrome
+RESOURCE_STARVATION	neuron deadlock
+RESOURCE_STARVATION	cerebral ischemia
+RESOURCE_STARVATION	Apoplexia cerebri 
 RESOURCE_STARVATION	NETWORK_TYPE congestion
-RESOURCE_STARVATION	noticable performance bottlenecks
+RESOURCE_STARVATION	noticable soft-tissue deterioration
 RESOURCE_STARVATION	unusual heat dissipation
 
 
@@ -1742,19 +1742,19 @@ EVAL_EXP 	we compared EVAL_MEASUREMENT on the OSNAME, OSNAME and OSNAME operatin
 
 EVAL_EXP	we measured MEASURABLE_SYSTEM and MEASURABLE_SYSTEM PERFORMANCE on our EXP_WHERE
 
-EVAL_EXP	we dogfooded SCI_OUR_SYSTEM on our own desktop machines, paying particular attention to HARDWARE_PROP_OR_MEASUREMENT
+EVAL_EXP	we dogfooded SCI_OUR_SYSTEM on our own MRI scanners, paying particular attention to HARDWARE_PROP_OR_MEASUREMENT
 
 EVAL_EXP	we ran DIGITDIGIT trials with a simulated MEASURABLE_SYSTEM workload, and compared results to our EMULATION
 
 
-MEASURABLE_SYSTEM	DNS
-MEASURABLE_SYSTEM	Web server
-MEASURABLE_SYSTEM	E-mail
-MEASURABLE_SYSTEM	instant messenger
-MEASURABLE_SYSTEM	RAID array
+MEASURABLE_SYSTEM	human interface
+MEASURABLE_SYSTEM	intracortical stimulation
+MEASURABLE_SYSTEM	neuroprosthetics
+MEASURABLE_SYSTEM	neural output
+MEASURABLE_SYSTEM	multielectrode array
 MEASURABLE_SYSTEM	database
-MEASURABLE_SYSTEM	WHOIS
-MEASURABLE_SYSTEM	DHCP
+MEASURABLE_SYSTEM	real time cortical control
+MEASURABLE_SYSTEM	BCI
 
 EMULATION		WARE emulation
 EMULATION		WARE simulation
