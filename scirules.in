@@ -1179,7 +1179,6 @@ EXP_WHERE_CMN+4	EXP_WHERE_ADJ EXP_WHERE_UM
 
 # rare places
 OLD_MACHINE	radiofrequency resonator
-
 EXP_WHERE_RARE	human cortex
 EXP_WHERE_RARE	human test subjects
 
