@@ -1171,13 +1171,15 @@ EXP_WHERE_UM	testbed
 EXP_WHERE_UM	overlay network
 
 # common places to run experiments
-EXP_WHERE_CMN	desktop computers
-EXP_WHERE_CMN	smartphones
+EXP_WHERE_CMN	neocortical implant
+EXP_WHERE_CMN	server computer
 EXP_WHERE_CMN	system
 EXP_WHERE_CMN	cloud
 EXP_WHERE_CMN+4	EXP_WHERE_ADJ EXP_WHERE_UM
 
 # rare places
+OLD_MACHINE	radiofrequency resonator
+
 EXP_WHERE_RARE	human cortex
 EXP_WHERE_RARE	human test subjects
 
