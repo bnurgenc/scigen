@@ -1849,7 +1849,7 @@ SCI_BUZZWORD_NOUN artificial superintelligence
 SCI_BUZZWORD_NOUN archetypes
 SCI_BUZZWORD_NOUN consciousness in AI
 SCI_BUZZWORD_NOUN modalities
-SCI_BUZZWORD_NOUN symmetries
+SCI_BUZZWORD_NOUN semantic externalism
 SCI_BUZZWORD_NOUN epistemologies
 
 SCI_PROBLEM problem
@@ -1920,17 +1920,17 @@ SCI_THING	SCI_THING_S
 SCI_THING_HAS	SCI_THING_S has
 SCI_THING_HAS	SCI_THING_P have
 
-SCI_THING_S	courseware
-SCI_THING_S	e-commerce
+SCI_THING_S	consciousness
+SCI_THING_S	biomedical prosthesis
 
-SCI_THING_S	IPv4
+SCI_THING_S	semantic externalism
 SCI_THING_S	IPv6
 SCI_THING_P	DHTs
 SCI_THING_P	robots
 SCI_THING_P	agents
 SCI_THING_P	Markov models
-SCI_THING_S	the memory bus
-SCI_THING_P	SMPs
+SCI_THING_S	algorithm
+SCI_THING_P	Markov chains
 SCI_THING_P	kernels
 SCI_THING_P	suffix trees
 SCI_THING_P	spreadsheets
@@ -1946,15 +1946,15 @@ SCI_THING_P	online algorithms
 SCI_THING_S	extreme programming
 SCI_THING_P	object-oriented languages
 SCI_THING_S	Scheme
-SCI_THING_S	DNS
-SCI_THING_S	802.11b
+SCI_THING_S	Vagus nerve stimulation
+SCI_THING_S	deep brain stimulation
 SCI_THING_P	information retrieval systems
 SCI_THING_P	web browsers
 SCI_THING_S	architecture
 SCI_THING_P	thin clients
-#SCI_THING_S	the Commodore VIC-20
+#SCI_THING_S	the Chinese Room argument
 SCI_THING_S	the Turing machine
-SCI_THING_P	B-trees
+SCI_THING_P	the Turing test
 SCI_THING_P	hierarchical databases
 SCI_THING_P	randomized algorithms
 SCI_THING_S	the Internet
@@ -1963,36 +1963,36 @@ SCI_THING_S	consistent hashing
 SCI_THING_S	the transistor
 SCI_THING_S	the UNIVAC computer
 SCI_THING_S	Boolean logic
-SCI_THING_S	voice-over-IP
-SCI_THING_S	the World Wide Web
+SCI_THING_S	artificial intelligence
+SCI_THING_S	narrow AI
 SCI_THING_S	Moore's Law
-SCI_THING_P	flip-flop gates
-SCI_THING_S	e-business
+SCI_THING_P	integrated intelligence capabilities
+SCI_THING_S	artificial general inteliigence
 SCI_THING_P	neural networks
 SCI_THING_P	von Neumann machines
 SCI_THING_S	context-free grammar
 SCI_THING_P	digital-to-analog converters
 SCI_THING_P	journaling file systems
 SCI_THING_P	expert systems
-SCI_THING_P	active networks
+SCI_THING_P	consciousness
 SCI_THING_S	evolutionary programming
 SCI_THING_S	simulated annealing
 SCI_THING_P	superpages
 SCI_THING_P	superblocks
 SCI_THING_S	the partition table
-SCI_THING_S	the lookaside buffer
+SCI_THING_S	cognitive maps
 SCI_THING_P	POWER_OF_TWO bit architectures
 # SCI_THING_S 	distance e-learning
-SCI_THING_P	vacuum tubes
-SCI_THING_S 	Internet QoS
-SCI_THING_S 	rasterization
+SCI_THING_P	neurons
+SCI_THING_S the Simulation Hypothesis
+SCI_THING_S rasterization
 SCI_THING_S	model checking
-SCI_THING_S	lambda calculus
+SCI_THING_S	the Simulation Argument
 SCI_THING_S	scatter/gather I/O
-SCI_THING_S	XML
-SCI_THING_P	I/O automata
+SCI_THING_S	machine intelligence
+SCI_THING_P	human level AI
 SCI_THING_P	hash tables
-SCI_THING_P	red-black trees
+SCI_THING_P	machine learning
 SCI_THING_P	linked lists
 SCI_THING_P	fiber-optic cables
 SCI_THING_S	the Ethernet
@@ -2053,23 +2053,23 @@ METHODOLOGY	strategy
 
 SCI_FIELD	SCI_BUZZWORD_ADJ SCI_FIELD
 SCI_FIELD	SCI_MATH_ADJ SCI_FIELD
-SCI_FIELD	hardware and architecture
-SCI_FIELD	networking
-SCI_FIELD	operating systems
-SCI_FIELD	programming languages
+SCI_FIELD	philosophy of consciousness
+SCI_FIELD	neuroscience of consciousness
+SCI_FIELD	bio-engeneering
+SCI_FIELD	neuroscience
 SCI_FIELD	theory
 SCI_FIELD	algorithms
 SCI_FIELD	complexity theory
 SCI_FIELD	artificial intelligence
 SCI_FIELD	machine learning
 SCI_FIELD	robotics
-SCI_FIELD	electrical engineering
-SCI_FIELD	e-voting technology
+SCI_FIELD	artificial superintelligence
+SCI_FIELD	cybernetics
 SCI_FIELD	cryptography
-SCI_FIELD	cryptoanalysis
+SCI_FIELD	machine intelligence
 SCI_FIELD	cyberinformatics
-SCI_FIELD	steganography
-SCI_FIELD	software engineering
+SCI_FIELD	theory of consciousness
+SCI_FIELD	communication theory
 SCI_COUNTRY	American
 SCI_COUNTRY	British
 SCI_COUNTRY	Canadian
