@@ -1924,7 +1924,7 @@ SCI_THING_S	consciousness
 SCI_THING_S	biomedical prosthesis
 
 SCI_THING_S	semantic externalism
-SCI_THING_S	IPv6
+SCI_THING_S	intelligent machines
 SCI_THING_P	DHTs
 SCI_THING_P	robots
 SCI_THING_P	agents
@@ -1937,9 +1937,9 @@ SCI_THING_P	spreadsheets
 SCI_THING_P	operating systems
 SCI_THING_P	systems
 SCI_THING_P	interrupts
-SCI_THING_P	Web services
+SCI_THING_P	methodological incommensurabilities
 SCI_THING_P	massive multiplayer online role-playing games
-SCI_THING_P	Byzantine fault tolerance
+SCI_THING_P	intentionality in human cognition
 SCI_THING_S	the location-identity split
 SCI_THING_P	sensor networks
 SCI_THING_P	online algorithms
@@ -1949,9 +1949,9 @@ SCI_THING_S	Scheme
 SCI_THING_S	Vagus nerve stimulation
 SCI_THING_S	deep brain stimulation
 SCI_THING_P	information retrieval systems
-SCI_THING_P	web browsers
+SCI_THING_P	cognitive states
 SCI_THING_S	architecture
-SCI_THING_P	thin clients
+SCI_THING_P	theoretical frameworks
 #SCI_THING_S	the Chinese Room argument
 SCI_THING_S	the Turing machine
 SCI_THING_P	the Turing test
@@ -1962,7 +1962,7 @@ SCI_THING_S	the Internet
 SCI_THING_S	consistent hashing
 SCI_THING_S	the transistor
 SCI_THING_S	the UNIVAC computer
-SCI_THING_S	Boolean logic
+SCI_THING_S	building blocks
 SCI_THING_S	artificial intelligence
 SCI_THING_S	narrow AI
 SCI_THING_S	Moore's Law
@@ -1970,7 +1970,7 @@ SCI_THING_P	integrated intelligence capabilities
 SCI_THING_S	artificial general inteliigence
 SCI_THING_P	neural networks
 SCI_THING_P	von Neumann machines
-SCI_THING_S	context-free grammar
+SCI_THING_S	methodological incommensurability
 SCI_THING_P	digital-to-analog converters
 SCI_THING_P	journaling file systems
 SCI_THING_P	expert systems
