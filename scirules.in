@@ -1924,14 +1924,14 @@ SCI_THING_S	consciousness
 SCI_THING_S	biomedical prosthesis
 
 SCI_THING_S	semantic externalism
-SCI_THING_S	intelligent machines
-SCI_THING_P	DHTs
+SCI_THING_S	perceptual consciousness
+SCI_THING_P	intelligent machines
 SCI_THING_P	robots
 SCI_THING_P	agents
 SCI_THING_P	Markov models
 SCI_THING_S	algorithm
 SCI_THING_P	Markov chains
-SCI_THING_P	kernels
+SCI_THING_P	neurophilosophy
 SCI_THING_P	suffix trees
 SCI_THING_P	spreadsheets
 SCI_THING_P	operating systems
@@ -1943,7 +1943,7 @@ SCI_THING_P	intentionality in human cognition
 SCI_THING_S	the location-identity split
 SCI_THING_P	sensor networks
 SCI_THING_P	online algorithms
-SCI_THING_S	extreme programming
+SCI_THING_S	blindsight
 SCI_THING_P	object-oriented languages
 SCI_THING_S	Scheme
 SCI_THING_S	Vagus nerve stimulation
@@ -2852,40 +2852,40 @@ SCI_PROOF_PROP follows a Zipf-like distribution
 ####### People #######
 #############################################################################
 
-SCI_PERSON	chemist
-SCI_PERSON	physicist
+SCI_PERSON	futurist
+SCI_PERSON	AI programmer
 SCI_PERSON	information theorist
 SCI_PERSON	computational biologist
-SCI_PERSON	system administrator
-SCI_PERSON	gifted hacker
-SCI_PERSON	convicted hacker
-SCI_PERSON	mad scientist
-SCI_PERSON	hardware designer
+SCI_PERSON	cyberneticist
+SCI_PERSON	philosopher
+SCI_PERSON	neurobiologist
+SCI_PERSON	neuroscientist
+SCI_PERSON	AI specialist
 SCI_PERSON	complexity theorist
 SCI_PERSON	algorithmist
-SCI_PERSON	analyst
+SCI_PERSON	neurobiology analyst
 
 SCI_PEOPLE	leading analysts
 SCI_PEOPLE	experts
 SCI_PEOPLE	analysts
 SCI_PEOPLE	scholars
 SCI_PEOPLE	information theorists
-SCI_PEOPLE	statisticians
+SCI_PEOPLE	neuroscientists
 SCI_PEOPLE	computational biologists
 SCI_PEOPLE	system administrators
-SCI_PEOPLE	electrical engineers
+SCI_PEOPLE	neurobiology analysts
 SCI_PEOPLE	cryptographers
-SCI_PEOPLE	security experts
+SCI_PEOPLE	AI specialists
 SCI_PEOPLE	systems engineers
-SCI_PEOPLE	hackers worldwide
+SCI_PEOPLE	philosophers
 SCI_PEOPLE	biologists
 SCI_PEOPLE	mathematicians
 SCI_PEOPLE	physicists
 SCI_PEOPLE	theorists
 SCI_PEOPLE	researchers
-SCI_PEOPLE	steganographers
+SCI_PEOPLE	neurobiologists
 SCI_PEOPLE	cyberinformaticians
-SCI_PEOPLE	end-users
+SCI_PEOPLE	philosophers
 SCI_PEOPLE      futurists
 SCI_PEOPLE      cyberneticists
 
