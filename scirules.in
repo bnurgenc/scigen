@@ -1851,6 +1851,8 @@ SCI_BUZZWORD_NOUN consciousness in AI
 SCI_BUZZWORD_NOUN transhumanism
 SCI_BUZZWORD_NOUN semantic externalism
 SCI_BUZZWORD_NOUN epistemologies
+SCI_BUZZWORD_NOUN nanotechnology
+SCI_BUZZWORD_NOUN the technological Singularity
 
 SCI_PROBLEM problem
 SCI_PROBLEM issue
@@ -1932,20 +1934,20 @@ SCI_THING_P	Markov models
 SCI_THING_S	algorithm
 SCI_THING_P	Markov chains
 SCI_THING_P	neurophilosophy
-SCI_THING_P	suffix trees
-SCI_THING_P	spreadsheets
-SCI_THING_P	operating systems
+SCI_THING_P	nanobots
+SCI_THING_P	bio-ontological boundaries
+SCI_THING_P	scanning systems
 SCI_THING_P	systems
 SCI_THING_P	interrupts
 SCI_THING_P	methodological incommensurabilities
-SCI_THING_P	massive multiplayer online role-playing games
+SCI_THING_P	experiments
 SCI_THING_P	intentionality in human cognition
 SCI_THING_S	the location-identity split
 SCI_THING_P	sensor networks
 SCI_THING_P	online algorithms
 SCI_THING_S	blindsight
 SCI_THING_P	object-oriented languages
-SCI_THING_S	Scheme
+SCI_THING_S	cyberpunk
 SCI_THING_S	Vagus nerve stimulation
 SCI_THING_S	deep brain stimulation
 SCI_THING_P	information retrieval systems
@@ -1954,80 +1956,80 @@ SCI_THING_S	architecture
 SCI_THING_P	theoretical frameworks
 #SCI_THING_S	the Chinese Room argument
 SCI_THING_S	the Turing machine
-SCI_THING_P	the Turing test
+SCI_THING_P	building blocks
 SCI_THING_P	hierarchical databases
 SCI_THING_P	randomized algorithms
-SCI_THING_S	the Internet
-#SCI_THING_P	the Internets
-SCI_THING_S	consistent hashing
-SCI_THING_S	the transistor
-SCI_THING_S	the UNIVAC computer
-SCI_THING_S	building blocks
+SCI_THING_S	Bland Indifference Principle
+#SCI_THING_P	nanobots
+SCI_THING_S	Marxist-Extropian ideology
+SCI_THING_S	schematics
+SCI_THING_S	the Turing test
+SCI_THING_S	ontology
 SCI_THING_S	artificial intelligence
 SCI_THING_S	narrow AI
 SCI_THING_S	Moore's Law
 SCI_THING_P	integrated intelligence capabilities
-SCI_THING_S	artificial general inteliigence
+SCI_THING_S	artificial general intelligence
 SCI_THING_P	neural networks
-SCI_THING_P	von Neumann machines
+SCI_THING_P	Singularity structures
 SCI_THING_S	methodological incommensurability
-SCI_THING_P	digital-to-analog converters
+SCI_THING_P	digital-to-postp hysical converters
 SCI_THING_P	journaling file systems
 SCI_THING_P	expert systems
 SCI_THING_P	consciousness
 SCI_THING_S	evolutionary programming
 SCI_THING_S	technological singularity
-SCI_THING_P	superpages
+SCI_THING_P	supersytems
 SCI_THING_P	superblocks
-SCI_THING_S	the partition table
+SCI_THING_S	cyberculture
 SCI_THING_S	cognitive maps
-SCI_THING_P	POWER_OF_TWO bit architectures
-# SCI_THING_S 	distance e-learning
+SCI_THING_P	POWER_OF_TWO cognitive architectures
+# SCI_THING_S 	neural structure
 SCI_THING_P	neurons
 SCI_THING_S the Simulation Hypothesis
 SCI_THING_S rasterization
 SCI_THING_S	model checking
 SCI_THING_S	the Simulation Argument
-SCI_THING_S	scatter/gather I/O
+SCI_THING_S	cyberculture
 SCI_THING_S	machine intelligence
 SCI_THING_P	human level AI
 SCI_THING_P	hash tables
 SCI_THING_P	machine learning
 SCI_THING_P	linked lists
-SCI_THING_P	fiber-optic cables
+SCI_THING_P	neural links
 SCI_THING_S	posthumanism
-SCI_THING_S	RAID
+SCI_THING_S	industrial technosphere
 SCI_THING_P	transhumanism
 SCI_THING_P	access points
 SCI_THING_P	gigabit switches
-SCI_THING_S	telephony
+SCI_THING_S	Downward Causation
 SCI_THING_P	multi-processors
-SCI_THING_P	compilers
-SCI_THING_P	semaphores
-SCI_THING_P	RPCs
-SCI_THING_P	virtual machines
-SCI_THING_S	Smalltalk
-SCI_THING_S	A* search
-SCI_THING_S	reinforcement learning
-SCI_THING_P	Lamport clocks
-SCI_THING_S	the producer-consumer problem
+SCI_THING_P	post-human intelligences
+SCI_THING_S	the Singularity methaphor
+SCI_THING_P	cognitive states
+SCI_THING_P	states of conscoiusness
+SCI_THING_S	functional reduction
+SCI_THING_S	cyber-Marxist revolution
+SCI_THING_S	deep learning
+SCI_THING_S	neuro-informatic prostheses
+SCI_THING_S	AI consciousness
 SCI_THING_P	checksums
-SCI_THING_P	link-level acknowledgements
-SCI_THING_P	public-private key pairs
+SCI_THING_P	academic acknowledgements
+SCI_THING_S	technoculture
 SCI_THING_P	symmetric encryption
 SCI_THING_S	forward-error correction
-SCI_THING_S	erasure coding
+SCI_THING_S	technocivilization
 SCI_THING_S	redundancy
 SCI_THING_S	replication
-SCI_THING_S     congestion control
-SCI_THING_P	wide-area networks
-SCI_THING_P	local-area networks
-SCI_THING_S	DHCP
-SCI_THING_P	write-back caches
+SCI_THING_S birth control
+SCI_THING_P	functional reductions
+SCI_THING_P	unconscious states
+SCI_THING_S	Singularitarianism
+SCI_THING_P	temporal caches
 SCI_THING_P	multicast SCI_SYSTEM_PL
 SCI_THING_S	write-ahead logging
-SCI_THING_S	cache coherence
-SCI_THING_P	SCSI disks
+SCI_THING_S	hypothalamus
+SCI_THING_P	frontal lobes
 SCI_THING_MOD	SCI_THING CITATION_SOMETIMES
 SCI_SYSTEM	algorithm
 SCI_SYSTEM	system
@@ -2065,7 +2067,7 @@ SCI_FIELD	machine learning
 SCI_FIELD	robotics
 SCI_FIELD	artificial superintelligence
 SCI_FIELD	cybernetics
-SCI_FIELD	cryptography
+SCI_FIELD	futurology
 SCI_FIELD	machine intelligence
 SCI_FIELD	cyberinformatics
 SCI_FIELD	theory of consciousness
@@ -2886,8 +2888,8 @@ SCI_PEOPLE	researchers
 SCI_PEOPLE	neurobiologists
 SCI_PEOPLE	cyberinformaticians
 SCI_PEOPLE	philosophers
-SCI_PEOPLE      futurists
-SCI_PEOPLE      cyberneticists
+SCI_PEOPLE futurologist
+SCI_PEOPLE cyberneticists
 
 SCI_SOURCE	Rodney Brooks
 SCI_SOURCE	Alan Turing
