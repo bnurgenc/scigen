@@ -1743,7 +1743,7 @@ EVAL_EXP 	we compared EVAL_MEASUREMENT on the OSNAME, OSNAME and OSNAME operatin
 
 EVAL_EXP	we measured MEASURABLE_SYSTEM and MEASURABLE_SYSTEM PERFORMANCE on our EXP_WHERE
 
-EVAL_EXP	we dogfooded SCI_OUR_SYSTEM on our own MRI scanners, paying particular attention to HARDWARE_PROP_OR_MEASUREMENT
+EVAL_EXP	we double-checked SCI_OUR_SYSTEM on our own MRI scanners, paying particular attention to HARDWARE_PROP_OR_MEASUREMENT
 
 EVAL_EXP	we ran DIGITDIGIT trials with a simulated MEASURABLE_SYSTEM workload, and compared results to our EMULATION
 
@@ -1841,14 +1841,14 @@ CONCL_CONCL CONCL_MID_X.
 
 SCI_BUZZWORD_NOUN consciousness
 SCI_BUZZWORD_NOUN artificial intelligence
-SCI_BUZZWORD_NOUN algorithms
+SCI_BUZZWORD_NOUN posthumanist theory
 SCI_BUZZWORD_NOUN algorithmic theory
 SCI_BUZZWORD_NOUN methodologies
 SCI_BUZZWORD_NOUN conscious states
 SCI_BUZZWORD_NOUN artificial superintelligence
 SCI_BUZZWORD_NOUN archetypes
 SCI_BUZZWORD_NOUN consciousness in AI
-SCI_BUZZWORD_NOUN modalities
+SCI_BUZZWORD_NOUN transhumanism
 SCI_BUZZWORD_NOUN semantic externalism
 SCI_BUZZWORD_NOUN epistemologies
 
@@ -1976,7 +1976,7 @@ SCI_THING_P	journaling file systems
 SCI_THING_P	expert systems
 SCI_THING_P	consciousness
 SCI_THING_S	evolutionary programming
-SCI_THING_S	simulated annealing
+SCI_THING_S	technological singularity
 SCI_THING_P	superpages
 SCI_THING_P	superblocks
 SCI_THING_S	the partition table
@@ -1995,9 +1995,9 @@ SCI_THING_P	hash tables
 SCI_THING_P	machine learning
 SCI_THING_P	linked lists
 SCI_THING_P	fiber-optic cables
-SCI_THING_S	the Ethernet
+SCI_THING_S	posthumanism
 SCI_THING_S	RAID
-SCI_THING_P	802.11 mesh networks
+SCI_THING_P	transhumanism
 SCI_THING_P	access points
 SCI_THING_P	gigabit switches
 SCI_THING_S	telephony
@@ -2057,9 +2057,9 @@ SCI_FIELD	philosophy of consciousness
 SCI_FIELD	neuroscience of consciousness
 SCI_FIELD	bio-engeneering
 SCI_FIELD	neuroscience
-SCI_FIELD	theory
+SCI_FIELD	posthumanism
 SCI_FIELD	algorithms
-SCI_FIELD	complexity theory
+SCI_FIELD	transhumanism
 SCI_FIELD	artificial intelligence
 SCI_FIELD	machine learning
 SCI_FIELD	robotics
@@ -2088,7 +2088,7 @@ SCI_COUNTRY	Soviet
 SCI_BUZZWORD_ADJ_MULTI+5 SCI_BUZZWORD_ADJ
 SCI_BUZZWORD_ADJ_MULTI+10 SCI_BUZZWORD_ADJ, SCI_BUZZWORD_ADJ
 SCI_BUZZWORD_ADJ_MULTI SCI_BUZZWORD_ADJ, SCI_BUZZWORD_ADJ, SCI_BUZZWORD_ADJ
-SCI_BUZZWORD_ADJ peer-to-peer
+SCI_BUZZWORD_ADJ socio-cognitive
 SCI_BUZZWORD_ADJ game-theoretic
 SCI_BUZZWORD_ADJ knowledge-based
 SCI_BUZZWORD_ADJ relational
@@ -2861,7 +2861,7 @@ SCI_PERSON	philosopher
 SCI_PERSON	neurobiologist
 SCI_PERSON	neuroscientist
 SCI_PERSON	AI specialist
-SCI_PERSON	complexity theorist
+SCI_PERSON	transhumanist
 SCI_PERSON	algorithmist
 SCI_PERSON	neurobiology analyst
 
