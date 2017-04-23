@@ -2091,13 +2091,13 @@ SCI_BUZZWORD_ADJ_MULTI+5 SCI_BUZZWORD_ADJ
 SCI_BUZZWORD_ADJ_MULTI+10 SCI_BUZZWORD_ADJ, SCI_BUZZWORD_ADJ
 SCI_BUZZWORD_ADJ_MULTI SCI_BUZZWORD_ADJ, SCI_BUZZWORD_ADJ, SCI_BUZZWORD_ADJ
 SCI_BUZZWORD_ADJ socio-cognitive
-SCI_BUZZWORD_ADJ game-theoretic
+SCI_BUZZWORD_ADJ human-level
 SCI_BUZZWORD_ADJ knowledge-based
 SCI_BUZZWORD_ADJ relational
 SCI_BUZZWORD_ADJ compact
 SCI_BUZZWORD_ADJ ubiquitous
 SCI_BUZZWORD_ADJ linear-time
-SCI_BUZZWORD_ADJ ``fuzzy''
+SCI_BUZZWORD_ADJ subjective
 SCI_BUZZWORD_ADJ embedded
 SCI_BUZZWORD_ADJ constant-time
 SCI_BUZZWORD_ADJ client-server
@@ -2106,7 +2106,7 @@ SCI_BUZZWORD_ADJ reliable
 SCI_BUZZWORD_ADJ replicated
 SCI_BUZZWORD_ADJ low-energy
 SCI_BUZZWORD_ADJ omniscient
-SCI_BUZZWORD_ADJ wireless
+SCI_BUZZWORD_ADJ binocular
 SCI_BUZZWORD_ADJ modular
 SCI_BUZZWORD_ADJ autonomous
 SCI_BUZZWORD_ADJ introspective
@@ -2120,13 +2120,13 @@ SCI_BUZZWORD_ADJ permutable
 SCI_BUZZWORD_ADJ adaptive
 SCI_BUZZWORD_ADJ self-learning
 SCI_BUZZWORD_ADJ trainable
-SCI_BUZZWORD_ADJ ``smart''
+SCI_BUZZWORD_ADJ "smart"
 SCI_BUZZWORD_ADJ classical
 SCI_BUZZWORD_ADJ atomic
 SCI_BUZZWORD_ADJ event-driven
 SCI_BUZZWORD_ADJ read-write
 SCI_BUZZWORD_ADJ encrypted
-SCI_BUZZWORD_ADJ highly-available
+SCI_BUZZWORD_ADJ syntactic
 SCI_BUZZWORD_ADJ secure
 SCI_BUZZWORD_ADJ interposable
 SCI_BUZZWORD_ADJ cacheable
@@ -2134,7 +2134,7 @@ SCI_BUZZWORD_ADJ perfect
 SCI_BUZZWORD_ADJ electronic
 SCI_BUZZWORD_ADJ pervasive
 SCI_BUZZWORD_ADJ large-scale
-SCI_BUZZWORD_ADJ Bayesian
+SCI_BUZZWORD_ADJ observer-relative
 SCI_BUZZWORD_ADJ multimodal
 SCI_BUZZWORD_ADJ authenticated
 SCI_BUZZWORD_ADJ interactive
@@ -2327,7 +2327,7 @@ SCI_MATH_ADJ	disjoint
 SCI_MATH_ADJ	independent
 SCI_MATH_ADJ	mutually exclusive
 SCI_MATH_ADJ	noisy
-SCI_MATH_ADJ	fuzzy
+SCI_MATH_ADJ	unpercise
 SCI_MATH_ADJ	random
 SCI_MATH_ADJ	stochastic
 SCI_MATH_ADJ	discrete
@@ -2338,13 +2338,13 @@ SCI_MATH_ADJ	exhaustive
 SCI_MATH_ADJ	Markov
 SCI_MATH_ADJ	Bayesian
 SCI_MATH_ADJ	randomized
-SCI_MATH_ADJ	pipelined
+SCI_MATH_ADJ	connected
 #SCI_MATH_ADJ	hardware
 SCI_MATH_ADJ	wireless
 SCI_MATH_ADJ	wired
 SCI_MATH_ADJ	separated
 SCI_MATH_ADJ	saturated
-SCI_MATH_ADJ	DoS-ed
+SCI_MATH_ADJ	edited
 SCI_MATH_ADJ	replicated
 
 SCI_MATH_ADV	extremely
